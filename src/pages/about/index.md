@@ -1,19 +1,22 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![alt](/content/images/2018/03/Annie-Sanderson-Main-Blog-Picture.jpeg)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Hello....
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+My name is Annie, and I welcome you warmly to my personal blog and home for my thoughts, feelings, ideas and all the things that inspire me as an individual.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Over recent months, I have come to learn and appreciate that life is such a precious, and wondrous gift that should be held sacred and enjoyed by doing the things YOU love and feel most passionate about.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I am actively pursuing this personal goal of mine through my love for art, crafts and photography, of which, I'll be sharing on here in the next coming months.
+
+Blogging is a new found love for me so, I hope its content will provide you inspiration to start thinking about living your life to the absolute fullest and to follow all those hidden dreams like I have begun to.
+
+Let's start this journey together by doing what we love.
+
+*Much love,*
+
+*Annie x*

@@ -15,7 +15,7 @@ export const IndexHeader = () => {
         <div class="main-header-content inner">
             <h1 class="page-title">Annie Sanderson</h1>
             <h2 class="as-nav-links as-social">
-                <a href="/About/" class="fa-stack">
+                <a href="/about/" class="fa-stack">
                     <span class="as-social-bg fa fa-circle fa-stack-1x"></span>
                     <span class="fa fa-circle-thin fa-stack-2x"></span>
                     <span class="fa-stack-1x" style={{bottom:"4px"}}>me</span>
